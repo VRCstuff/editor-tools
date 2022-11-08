@@ -1,7 +1,7 @@
 {
   "name": "com.vrcstuff.editor-tools",
   "displayName": "VRCStuff Editor Tools",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Describe this Package",
   "gitDependencies": {},
   "vpmDependencies": {

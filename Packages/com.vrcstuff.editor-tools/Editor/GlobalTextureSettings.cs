@@ -25,7 +25,7 @@ public class GlobalTextureSettings : EditorWindow
     int numberOfScaledTextures = 0;
 
 
-    [MenuItem("Window/GlobalTextureSettings")]
+    [MenuItem("Tools/VRCS/GlobalTextureSettings")]
     public static void ShowWindow()
     {
         //Show existing window instance. If one doesn't exist, make one.
