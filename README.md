@@ -1,20 +1,6 @@
-# VPM Package Template
+# Editor Tools
 
-Starter for making Packages, including automation for building and publishing them.
-
-Once you're all set up, you'll be able to push changes to this repository and have .zip and .unitypackage versions automatically generated, and a listing made which works in the VPM for delivering updates for this package. 
-Multi-package repo support is yet to come.
-
-## ▶ Getting Started
-
-* Press [![Use This Template](https://user-images.githubusercontent.com/737888/185467681-e5fdb099-d99f-454b-8d9e-0760e5a6e588.png)](https://github.com/vrchat-community/template-package/generate)
-to start a new GitHub project based on this template, and follow the directions there. 
-* Clone this repository locally using git.
-* Open the folder as a Unity Project.
-* Wait while the VPM resolver is downloaded and added to your project. This gives you access to the VPM Package Maker and Package Resolver tools.
-
-## 🚇 Migrating Assets Package
-* Full details at [Converting Assets to a VPM Package](https://vcc.docs.vrchat.com/guides/convert-unitypackage)
+```https://github.com/VRCstuff/editor-tools.git?path=/Packages/com.vrcstuff.editor-tools```
 
 ## Working on Your Package
 
